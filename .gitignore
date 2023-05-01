@@ -8,3 +8,6 @@
 
 # acess key
 *.pem
+
+### Ansible ###
+*.retry
